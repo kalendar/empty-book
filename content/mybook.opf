@@ -9,7 +9,7 @@
   <manifest>
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="item1" media-type="application/xhtml+xml"/>
-  </manifest>
+  <item href="chapter-1-f2b59a68-5fc1-4ad5-8ad1-306a8a7e6aa1.html" id="chapter-1-f2b59a68-5fc1-4ad5-8ad1-306a8a7e6aa1.html" media-type="application/xhtml+xml"/></manifest>
   <spine>
     <itemref idref="item1" linear="yes"/>
   </spine>
